@@ -6,9 +6,9 @@ For more information about this project, please see the Medium Blog Post I creat
 
 The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' file in this repository. To be able to run the code, please install the install the following libraries:
 
-1. NumPy
-2. Pandas
-3. Matplotlib
+* NumPy
+* Pandas
+* Matplotlib
 
 ### Data
 
