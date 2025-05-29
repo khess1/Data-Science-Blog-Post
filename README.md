@@ -14,7 +14,7 @@ The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' fil
 
 For this project, I used data from the Stack Overflow Survey 2024. This data contains nearly 65,000 responses from over 170 countries. To download the data, please click here and use the 'survey_results_public.csv' file (https://survey.stackoverflow.co/).
 
-### Analysis
+### Questions
 
 For this project, I focused on answering the following five questions about developers and AI:
 
