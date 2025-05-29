@@ -14,7 +14,7 @@ The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' fil
 
 For this project, I used data from the Stack Overflow Survey 2024. This data contains nearly 65,000 responses from over 170 countries. To download the data, please click here and use the 'survey_results_public.csv' file (https://survey.stackoverflow.co/).
 
-### Questions
+### Analysis
 
 For this project, I focused on answering the following five questions about developers and AI:
 
@@ -23,8 +23,6 @@ For this project, I focused on answering the following five questions about deve
 3. How Many Years of Experience Do Those Professional Developers Who Consider AI To Be A Threat Have?
 4. What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
 5. What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)?
-
-### Results
 
 Here are at the results:
 
