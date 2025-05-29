@@ -16,13 +16,13 @@ For this project, I used data from the Stack Overflow Survey 2024. This data con
 
 ### Questions
 
-For this project, I focused on answering the following five questions about developers and AI:
+For this project, I focused on answering the following questions about developers and AI:
 
-1. Do Professional Developers Consider AI To Be A Threat?
-2. What Is The Work Model Of Those Professional Developers Who Consider AI To Be A Threat?
-3. How Many Years of Experience Do Those Professional Developers Who Consider AI To Be A Threat Have?
-4. What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
-5. What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)?
+* Do Professional Developers Consider AI To Be A Threat?
+* What Is The Work Model Of Those Professional Developers Who Consider AI To Be A Threat?
+* How Many Years of Experience Do Those Professional Developers Who Consider AI To Be A Threat Have?
+* What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
+* What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)?
 
 ### Results
 
