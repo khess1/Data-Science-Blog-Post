@@ -28,8 +28,8 @@ For this project, I focused on answering the following five questions about deve
 
 Here are the results of the analysis:
 
-1. The majority of professional developers do not consider AI to be a threat.
-2. Those professional developers who consider AI to be a threat primarily work remotely.
-3. Those professional developers who consider AI to be a threat primarily have less than 10 years of experience.
-4. Those professional developers who consider AI to be a threat primarily have a bachelor's degree.
-5. Those professional developers who consider AI to be a threat primarily come from the United, followed by India, and then Germany.
+* The majority of professional developers do not consider AI to be a threat.
+* Those professional developers who consider AI to be a threat primarily work remotely.
+* Those professional developers who consider AI to be a threat primarily have less than 10 years of experience.
+* Those professional developers who consider AI to be a threat primarily have a bachelor's degree.
+* Those professional developers who consider AI to be a threat primarily come from the United, followed by India, and then Germany.
