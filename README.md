@@ -26,8 +26,6 @@ For this project, I focused on answering the following questions about developer
 
 ### Results
 
-Here are the results of the analysis:
-
 * The majority of professional developers do not consider AI to be a threat.
 * Those professional developers who consider AI to be a threat primarily work remotely.
 * Those professional developers who consider AI to be a threat primarily have less than 10 years of experience.
