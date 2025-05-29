@@ -6,9 +6,9 @@ Libraries:
 
 The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' file in this repository. To be able to run the code, please install the install the following libraries:
 
-NumPy
-Pandas
-Matplotlib
+1. NumPy
+2. Pandas
+3. Matplotlib
 
 Data:
 
