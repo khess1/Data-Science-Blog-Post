@@ -16,6 +16,8 @@ For this project, I used data from the Stack Overflow Survey 2024. This data con
 
 ### Analysis
 
+#### Questions
+
 For this project, I focused on answering the following five questions about developers and AI:
 
 1. Do Professional Developers Consider AI To Be A Threat?
@@ -24,7 +26,7 @@ For this project, I focused on answering the following five questions about deve
 4. What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
 5. What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)
 
-Here are the results:
+#### Results
 
 1. The majority of professional developers do not consider AI to be a threat.
 2. Those professional developers who consider AI to be a threat primarily work remotely.
