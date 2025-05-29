@@ -26,7 +26,7 @@ For this project, I focused on answering the following five questions about deve
 
 ### Results
 
-Here are the results of the analysis:
+Here are the results of the analysis about developers ana AI:
 
 1. The majority of professional developers do not consider AI to be a threat.
 2. Those professional developers who consider AI to be a threat primarily work remotely.
