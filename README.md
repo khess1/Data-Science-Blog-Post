@@ -18,7 +18,7 @@ For this project, I used data from the Stack Overflow Survey 2024. This data con
 
 ### Questions
 
-For this project, I focused on answering the following questions about developers and AI:
+For this project, I focused on answering the following five questions:
 
 1. Do Software Developers Feel Threatened By AI?
 2. What Is The Work Model Of Software Developers Who Feel Threatened By AI?
@@ -27,8 +27,6 @@ For this project, I focused on answering the following questions about developer
 5. What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)?
 
 ### Results
-
-Here are the results of the analysis:
 
 * The majority of software developers do not consider AI to be a threat.
 * Software developers who feel threatened by AI primarily work remotely.
