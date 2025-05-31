@@ -14,17 +14,17 @@ The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' fil
 
 ### Data
 
-For this project, I used data from the Stack Overflow Survey 2024. This data contains nearly 65,000 responses from over 170 countries. To download the data, please click [here](https://survey.stackoverflow.co/) and use the 'survey_results_public.csv' file.
+For this project, I used data from the Stack Overflow Survey 2024. This data contains nearly 65,000 responses from over 170 countries. To download the data, please click [here](https://survey.stackoverflow.co/) and use the `survey_results_public.csv` file.
 
 ### Questions
 
 For this project, I focused on answering the following questions about developers and AI:
 
-* Do Software Developers Feel Threatened By AI?
-* What Is The Work Model Of Those Professional Developers Who Consider AI To Be A Threat?
-* How Many Years of Experience Do Those Professional Developers Who Consider AI To Be A Threat Have?
-* What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
-* What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)?
+1. Do Software Developers Feel Threatened By AI?
+2. What Is The Work Model Of Those Professional Developers Who Consider AI To Be A Threat?
+3. How Many Years of Experience Do Those Professional Developers Who Consider AI To Be A Threat Have?
+4. What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
+5. What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)?
 
 ### Results
 
