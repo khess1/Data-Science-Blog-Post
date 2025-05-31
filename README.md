@@ -21,8 +21,8 @@ For this project, I used data from the Stack Overflow Survey 2024. This data con
 For this project, I focused on answering the following questions about developers and AI:
 
 1. Do Software Developers Feel Threatened By AI?
-2. What Is The Work Model Of Those Professional Developers Who Consider AI To Be A Threat?
-3. How Many Years of Experience Do Those Professional Developers Who Consider AI To Be A Threat Have?
+2. What Is The Work Model Of Software Developers Who Feel Threatened By AI?
+3. How Many Years of Experience Do Software Developers Who Feel Threatened By AI Have?
 4. What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
 5. What Country Are Those Professional Developers Who Consider AI To Be A Threat From? (Top 10)?
 
@@ -30,8 +30,8 @@ For this project, I focused on answering the following questions about developer
 
 Here are the results of the analysis:
 
-* The majority of professional developers do not consider AI to be a threat.
-* Those professional developers who consider AI to be a threat primarily work remotely.
-* Those professional developers who consider AI to be a threat primarily have less than 10 years of experience.
-* Those professional developers who consider AI to be a threat primarily have a bachelor's degree.
-* Those professional developers who consider AI to be a threat primarily come from the United, followed by India, and then Germany.
+* The majority of software developers do not consider AI to be a threat.
+* Software developers who feel threatened by AI primarily work remotely.
+* Software developers who feel threatened by AI primarily have less than 10 years of experience.
+* Software developers who feel threatened by AI primarily have a bachelor's degree.
+* Software developers who feel threatened by AI primarily come from the United States, followed by India, and then Germany.
