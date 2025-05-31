@@ -2,19 +2,19 @@
 
 ### Motivation
 
-The motitvation for this project stems from the fact that AI is increasingly becoming apart of our daily lives, from the use of Chat GPT to self-driving cars. As a result, many are concerned that AI could take over jobs that some humans do, particularly those in software development. Therefore, I was wondering what software developers think of AI and whether they feel threatened by it.
+The motitvation for this project stems from the fact that AI is increasingly becoming apart of our daily lives, from the use of Chat GPT to self-driving cars. As a result, many people are concerned that AI could take over jobs that some humans do, particularly those in software development. Therefore, I was wondering what software developers think of AI and whether they feel threatened by it.
 
 ### Libraries
 
 The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' file in this repository. To be able to run it, please install the install the following libraries:
 
-* NumPy
-* Pandas
-* Matplotlib
+* 'NumPy'
+* 'Pandas'
+* 'Matplotlib'
 
 ### Data
 
-For this project, I used data from the Stack Overflow Survey 2024. This data contains nearly 65,000 responses from over 170 countries. To download the data, please click here and use the 'survey_results_public.csv' file (https://survey.stackoverflow.co/).
+For this project, I used data from the Stack Overflow Survey 2024. This data contains nearly 65,000 responses from over 170 countries. To download the data, please click [here](https://survey.stackoverflow.co/) and use the 'survey_results_public.csv' file.
 
 ### Questions
 
