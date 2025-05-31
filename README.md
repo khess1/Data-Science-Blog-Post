@@ -1,6 +1,8 @@
 # Data-Science-Blog-Post
 
-For more information about this project, please see the Medium Blog Post I created here.
+### Motivation
+
+The motitvation for this project stems from the fact that AI is increasingly becoming apart of our daily lives, from the use of Chat GPT to self-driving cars. As a result, many people are concerned that AI could take over jobs that some humans do, particularly those in software development. Therefore, I was wondering what software developers think of AI and whether they feel threatened by it.
 
 ### Libraries
 
@@ -18,7 +20,7 @@ For this project, I used data from the Stack Overflow Survey 2024. This data con
 
 For this project, I focused on answering the following questions about developers and AI:
 
-* Do Professional Developers Consider AI To Be A Threat?
+* Do Software Developers Feel Threatened By AI?
 * What Is The Work Model Of Those Professional Developers Who Consider AI To Be A Threat?
 * How Many Years of Experience Do Those Professional Developers Who Consider AI To Be A Threat Have?
 * What Is The Level of Education Of Those Professional Developers Who Consider AI To Be A Threat?
