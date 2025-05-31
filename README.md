@@ -2,11 +2,11 @@
 
 ### Motivation
 
-The motitvation for this project stems from the fact that AI is increasingly becoming apart of our daily lives, from the use of Chat GPT to self-driving cars. Because of this, many people are concerned that AI could take over jobs that humans do, particularly those in software development. As a result, I was wondering what software developers think of AI and whether they feel threatened by it.
+The motitvation for this project stems from the fact that AI is increasingly becoming apart of our daily lives, from the use of Chat GPT to self-driving cars. As a resul, many people are concerned that AI could take over jobs that humans do, particularly those in software development. Therefore, I was wondering what software developers think of AI and whether they feel threatened by it.
 
 ### Libraries
 
-The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' file in this repository. To be able to run the code, please install the install the following libraries:
+The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' file in this repository. To be able to run it, please install the install the following libraries:
 
 * NumPy
 * Pandas
