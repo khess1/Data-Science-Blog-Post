@@ -8,9 +8,9 @@ The motitvation for this project stems from the fact that AI is increasingly bec
 
 The code for this project is contained in the 'Data_Science_Blog_Post.ipynb' file in this repository. To be able to run it, please install the install the following libraries:
 
-* 'NumPy'
-* 'Pandas'
-* 'Matplotlib'
+* `NumPy`
+* `Pandas`
+* `Matplotlib`
 
 ### Data
 
